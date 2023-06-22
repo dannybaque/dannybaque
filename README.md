@@ -1,10 +1,81 @@
-- 👋 Hi, I’m @dannybaque
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hola! 👋
 
-<!---
-dannybaque/dannybaque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
+
+</br>
+</br>
+</br>
+
+
+# About ME 💬 :
+
+### - I'm 24 years  old Software and web dev Enthusiast from Ecuador.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+
+### - Hobbies : 
+- ✨ Fifa Addict
+- ✨ Watching Anime and Football
+
+</br>
+</br>
+</br>
+
+
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="center">
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
+</p>
+</br>
+</br>
+</br>
+
+
+
+# Contact Me :
+
+<p>
+ </br>
+
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="mailto:baquedanny9@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/dannybaque/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+<a href="https://steamcommunity.com/id/DannyBR9/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+</a>
+ </p>
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
