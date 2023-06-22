@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Fernando Herrera @dannybaque
+- 👋 Hi, I’m Danny Baque @dannybaque
 - 👀 I’m interested in Coding, Teaching, Video Games, Football!
 - 🌱 I’m currently learning a lot of stuff
